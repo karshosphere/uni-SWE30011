@@ -1,0 +1,14 @@
+
+# .gitignore
+
+**/.DS_Store
+**/todo
+
+**/.cache/
+**/build/
+**/todo/
+
+**/CMakeLists.txt
+**/include/Arduino.h
+**/tmux-compile.lua
+
