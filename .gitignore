@@ -8,6 +8,7 @@
 **/build/
 **/todo/
 
+**/.ccls
 **/CMakeLists.txt
 **/include/Arduino.h
 **/tmux-compile.lua
